@@ -20,7 +20,7 @@ a.define a function
     2.Now, this function is empty, you should add code to do things. other language use big parentheses to identify codes in function. python use spaces. There should be at least 4 spaces before code on the next line, which should be like this.
        
         def has_to_be_a_function_to_be_invoked():
-
+            print('Welcome to DCSCI510!')
            
 b. invoke function
 
@@ -34,8 +34,7 @@ c. write notes
 
     To tell others the use of this function
     
-# Welcome others to class
-def has_to_be_a_function_to_be_invoked():
-    print('Welcome to DCSCI510!')
-
-has_to_be_a_function_to_be_invoked()
+        # Welcome others to class
+        def has_to_be_a_function_to_be_invoked():
+            print('Welcome to DCSCI510!')
+        has_to_be_a_function_to_be_invoked()
