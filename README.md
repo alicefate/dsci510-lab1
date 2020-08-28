@@ -2,7 +2,7 @@
 
 Hi, guys. 
 
-My name is Kexin Yan. My usc email address is kexinyan@usc.edu , which is something kind of obvious. 
+My name is Kexin Yan. My usc email address is kexinyan@usc.edu . 
 
 Things you have to do to invoke lab1.py:
 
