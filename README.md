@@ -10,8 +10,10 @@ Things you have to do to invoke lab1.py:
 
 2. open Jupyter and create new python3 notebook
 
-3. load your code and run it(shift+enter)
+3. load your code and run it(shift+enter):
+     
      a. if lab1.py in the jupyter folder: %load lab1.py
+     
      b. if they are in different folder: %load lab1-folder-path/lab1.py
      
 4. invoke the function
